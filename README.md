@@ -31,15 +31,27 @@ Chol (dialectally Ch'ol) -- "Western Cholan" but position to be examined
 ## References
 
 Houston, Stephen, David Stuart & John Robertson. 1998. Disharmony in Maya Hieroglyphic writing: Linguistic change and continuity in Classic society. In Ciudad Ruiz, Andrés, María Yolanda Fernández Marquínez, José Miguel García Campillo, María Josefa Iglesias Ponce de León, Alfonso Lacadena García Gallo, Luis Tomás Sanz Castro (eds.), Anatomía de una civilización: aproximaciones interdisciplinarias a la cultura maya, 275-296. Madrid: Sociedad Española de Estudios Mayas.
+
 Houston, Stephen, John Robertson & David Stuart. 2000. The language of Classic Maya inscriptions. Current Anthropology 41(3). 321–356.
+
 Houston, Stephen & Stuart, David & Robertson, John. 2004. Disharmony in Maya Hieroglyphic writing: Linguistic change and continuity in Classic society. In Wichmann, Søren (ed.), The linguistics of Maya writing, 83–99. Salt Lake City: University of Utah Press.
+
 Hruby, Zachary & Mark Child. 2004. Chontal linguistic influence in ancient Maya writing: Intransitive positional verbal affixation. In Søren Wichmann (ed.), The Linguistics of Maya Writing, 13–26. Salt Lake City: The University of Utah Press.
+
 Korobzow, Natalie. 2025. Split Ergativity in Ch’orti’ Maya: A Contribution to a Diachronic Typology of Alignment Change. PhD Thesis, University of Cologne.
+
 Lacadena, Alfonso & Søren Wichmann. 2002. The distribution of Lowland Maya languages in the Classic period. In Tiesler Blos, Vera, Rafael Cobos & Merle Greene Robertson (eds.), La organización social entre los mayas: memoria de la Tercera Mesa Redondo de Palenque. Vol. 2, 275-314. Mérida: Instituto Nacional de Antropología e Historia.
+
 Lacadena, Alfonso & Søren Wichmann. 2004. On the representation of the glottal stop in Maya writing. In Wichmann, Søren (ed.), The linguistics of Maya writing, 100-162. Salt Lake City: University of Utah Press.
+
 Law, Danny, John Robertson, Stephen Houston & Robbie Haertel. 2009. Most Maya glyphs are written in Ch’olti’an. In Brent Metz, Cameron McNeil & Kerry Hull (eds.), The Ch’orti’ Maya Area. Past and Present, 29–42. Gainesville: University Press of Florida.
+
 Mora-Marín, David. 2009. A test and falsification of the “Classic Ch’olti’an” hypothesis: A study of three Proto-Ch’olan markers. International Journal of American Linguistics 75(2). 115–157.
+
 Mora-Marín, David, Nicholas Hopkins & Kathryn Josserand. 2009. The linguistic affiliation of Classic Lowland Mayan writing and the historical sociolinguistic geography of the Mayan lowlands. In Brent Metz, Cameron McNeil & Kerry Hull (eds.), The Ch’orti’ Maya Area. Past and Present, 15–28. Gainesville: University Press of Florida.
+
 Robertson, John, Danny Law & Robbie Haertel. 2010. Colonial Ch’olti’. The Seventeenth-Century Morán Manuscript. Norman: University of Oklahoma Press.
+
 Wichmann, Søren. 2002. Hieroglyphic evidence for the historical configuration of Eastern Ch’olan. Research Reports on Ancient Maya Writing 51. 1–35.
+
 Wichmann, Søren. 2006. Mayan historical linguistics and epigraphy: A new synthesis. Annual Review of Anthropology 35. 279–294.
